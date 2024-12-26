@@ -1,4 +1,4 @@
-# ContextualStory
+# ContextualStory (AAAI 2025)
 
 [**📖 arXiv**](https://arxiv.org/abs/2407.09774)
 
